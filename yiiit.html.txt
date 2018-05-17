@@ -1,6 +1,0 @@
-<html>
-	<body>
-		<p> My first webpage </p>
-		<img src="C:/Users/Masimo/Desktop/test img.jpeg"
-	</body>
-</html>
