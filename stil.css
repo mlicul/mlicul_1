@@ -1,0 +1,28 @@
+.navigacija
+{ 
+   height: 110px; 
+   color:#080808;
+   font-size: 23px;
+}
+.navbar-inverse {
+    background-color: #080808;
+    border-color: #333333;
+}
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 30px;
+    border: 10px solid #333;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #a94442;
+}
+table {
+    background-color: #ccc;
+    font-size: 17px;
+}
